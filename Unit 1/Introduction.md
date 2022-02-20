@@ -1,0 +1,36 @@
+# AL Econ as a Social Science
+## Key Terms
+- _Ceteris Paribus_ - all things being equal; the assumption that, while the effects of a change in one variable are being investigated, all other variables are kept constant
+- _Disposable Income_ - the amount of money someone has to spend after paying all expenses
+- _Empirical_ - based on scientific testing or practical experience, not on ideas
+- _Good_ - a thing that is produced in order to be sold
+- _Hypothesis (plural: hypotheses)_ - an idea that is suggested as an explanation for something, but that has yet not proven to be true
+- _Inequality_ - an unfair situation, in which some groups in society have more money, opportunities, or power than others
+- _Law_ - a theory or model that has been verified with empirical evidence
+- _Normative Economics_ - the study and presentation of policy prescriptions involving value judgements about the way in which scarce resources are allocated
+- _Normative statements_ - statements that cannot be supported or refuted because it is a value judgement
+- _Positive Economics_ - the scientific or objective study of the allocation of resources
+- _Positive statements_ - statements that can be supported or refuted by evidence
+- _Scientific Method_ - a method that subjects theories or hypotheses to being disproved by empirical evidence
+- _Social Science_ - the study of societies and human behavior using a variety of methods, including the scientific methods
+- _Theory / model_ - a hypotheses that is capable of being refuted by empirical evidence
+
+- _Basic Economic Problem_ - infinite wants, finite resources
+- _Capital_ - as a factor of production is the stock of manufactured resources used in the production of goods and services
+- _Choice_ - involve the alternative uses of scarce resources
+- _Economic goods_ - goods that are scarce because their use has an opportunity cost
+- _Enterprise / entrepreneurship_ - as a factor of production is the seeking out of profitable opportunities for production and taking risks in exploiting these
+- _Entrepreneurs_ - individuals who seek out profitable opportunities for production and take risks in exploiting these
+- _Factors of production_ - the inputs to the production process: land, labor, capital and enterprise / entrepreneurship
+- _Fixed capital_ - economic resources, such as factories and hospitals, that are used to transform working capital into goods and services
+- _Free goods_ - goods that are unlimited in supply and therefore have no opportunity cost
+- _Human capital_ - the value of the productive potential of an individual or group; it is made up of their skills, talents, education and training and represents the value of future earnings and production
+- _Labor_ - as a factor of production is the workforce
+- _Land_ - as a factor of production is all natural resources
+- _Needs_ - the minimum that is necessary for a person to survive as a human being
+- _Non-renewable resources_ - resources which once exploited cannot be replaced
+- _Opportunity cost_ - the benefits of the next best alternative that are given up
+- _Renewable resources_ - resources which can be exploited over and over again since they have the potential to renew themselves
+- _Scare resources_ - resources that are limited in supply so that choices have to be made in their use
+- _Wants_ - desires for the consumption of goods and services
+- _Working / circulating capital_ - resources that are in the production system waiting to be transformed into goods or otehr materials before being finally sold to the consumer
