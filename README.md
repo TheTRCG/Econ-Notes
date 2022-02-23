@@ -1,2 +1,2 @@
-# EconALU1
-Econ notes for unit 1 cause we're fucked
+# Econ AL Notes
+Econ notes for stuff cause we're fucked
