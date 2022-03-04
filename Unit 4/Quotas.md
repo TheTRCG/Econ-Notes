@@ -1,4 +1,4 @@
-TODO: Quota graph
+#todo graph
 
 ### Welfare analysis of a quota
 - Consumer surplus falls by ($A+B+C+D$) as the tariff raises world price

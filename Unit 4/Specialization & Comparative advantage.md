@@ -27,7 +27,7 @@ Then, we calculate the output produced by each country $\frac{Cost per unit}{Out
 Based on these calculations, we can determine that Spain has an absolute advantage in the production of wheat while Portugal has an absolute advantage in the production of olive oil.
 
 ---
-### Calculating a comparitive advantage
+### Calculating a comparative advantage
 
 *For the exam, remember that David Ricardo conceptualized the idea of comparative advantage*
 

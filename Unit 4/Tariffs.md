@@ -1,4 +1,4 @@
-TODO: Insert tariff graph here
+#todo tariff graph
 
 
 ### Welfare analysis of a tariff
